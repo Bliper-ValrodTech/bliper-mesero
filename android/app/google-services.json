@@ -1,0 +1,378 @@
+{
+  "project_info": {
+    "project_number": "370655328947",
+    "project_id": "bliper-8acab",
+    "storage_bucket": "bliper-8acab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370655328947:android:e016e5cfeabaac628c0ec6",
+        "android_client_info": {
+          "package_name": "com.bliper.cobrador"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370655328947-1gftkolcl95234oi9ldrq2nnjbtf33fv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlja153xGpSppQwd9Lv7dfnUUBclBo65c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370655328947-1gftkolcl95234oi9ldrq2nnjbtf33fv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "370655328947-00kfsqtol0j7slnnutpvrmi4p5v7trv9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Blipermesero.bliperMesero"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370655328947:android:1a9a101b234854838c0ec6",
+        "android_client_info": {
+          "package_name": "com.bliper.rider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370655328947-1gftkolcl95234oi9ldrq2nnjbtf33fv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlja153xGpSppQwd9Lv7dfnUUBclBo65c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370655328947-1gftkolcl95234oi9ldrq2nnjbtf33fv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "370655328947-00kfsqtol0j7slnnutpvrmi4p5v7trv9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Blipermesero.bliperMesero"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370655328947:android:e21dc6c61e8908548c0ec6",
+        "android_client_info": {
+          "package_name": "com.bliper_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370655328947-qlrs5jniuvaldursvac1doarc6cn92cb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bliper_admin",
+            "certificate_hash": "8484050b84c62c6470ef5cd4a05874b600519b81"
+          }
+        },
+        {
+          "client_id": "370655328947-1gftkolcl95234oi9ldrq2nnjbtf33fv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlja153xGpSppQwd9Lv7dfnUUBclBo65c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370655328947-1gftkolcl95234oi9ldrq2nnjbtf33fv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "370655328947-00kfsqtol0j7slnnutpvrmi4p5v7trv9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Blipermesero.bliperMesero"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370655328947:android:0a8f30a2ebb28b878c0ec6",
+        "android_client_info": {
+          "package_name": "com.bliper_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370655328947-1gftkolcl95234oi9ldrq2nnjbtf33fv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlja153xGpSppQwd9Lv7dfnUUBclBo65c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370655328947-1gftkolcl95234oi9ldrq2nnjbtf33fv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "370655328947-00kfsqtol0j7slnnutpvrmi4p5v7trv9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Blipermesero.bliperMesero"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370655328947:android:3417b7e7e5061b0c8c0ec6",
+        "android_client_info": {
+          "package_name": "com.bliper_cosina"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370655328947-1gftkolcl95234oi9ldrq2nnjbtf33fv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlja153xGpSppQwd9Lv7dfnUUBclBo65c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370655328947-1gftkolcl95234oi9ldrq2nnjbtf33fv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "370655328947-00kfsqtol0j7slnnutpvrmi4p5v7trv9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Blipermesero.bliperMesero"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370655328947:android:9dda1e3233b1e47f8c0ec6",
+        "android_client_info": {
+          "package_name": "com.bliper_mesero"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370655328947-1gftkolcl95234oi9ldrq2nnjbtf33fv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlja153xGpSppQwd9Lv7dfnUUBclBo65c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370655328947-1gftkolcl95234oi9ldrq2nnjbtf33fv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "370655328947-00kfsqtol0j7slnnutpvrmi4p5v7trv9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Blipermesero.bliperMesero"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370655328947:android:63dda593b4b96aa98c0ec6",
+        "android_client_info": {
+          "package_name": "com.bliper_mesero.bliper_mesero"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370655328947-1gftkolcl95234oi9ldrq2nnjbtf33fv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlja153xGpSppQwd9Lv7dfnUUBclBo65c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370655328947-1gftkolcl95234oi9ldrq2nnjbtf33fv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "370655328947-00kfsqtol0j7slnnutpvrmi4p5v7trv9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Blipermesero.bliperMesero"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370655328947:android:99c0ac4de2af81748c0ec6",
+        "android_client_info": {
+          "package_name": "com.bliper_reloj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370655328947-1gftkolcl95234oi9ldrq2nnjbtf33fv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlja153xGpSppQwd9Lv7dfnUUBclBo65c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370655328947-1gftkolcl95234oi9ldrq2nnjbtf33fv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "370655328947-00kfsqtol0j7slnnutpvrmi4p5v7trv9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Blipermesero.bliperMesero"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370655328947:android:a65a322b1be414d58c0ec6",
+        "android_client_info": {
+          "package_name": "com.caja_bliper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370655328947-1gftkolcl95234oi9ldrq2nnjbtf33fv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlja153xGpSppQwd9Lv7dfnUUBclBo65c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370655328947-1gftkolcl95234oi9ldrq2nnjbtf33fv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "370655328947-00kfsqtol0j7slnnutpvrmi4p5v7trv9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Blipermesero.bliperMesero"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370655328947:android:cfbf14d8f9be747e8c0ec6",
+        "android_client_info": {
+          "package_name": "com.example.prueba_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370655328947-1gftkolcl95234oi9ldrq2nnjbtf33fv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlja153xGpSppQwd9Lv7dfnUUBclBo65c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370655328947-1gftkolcl95234oi9ldrq2nnjbtf33fv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "370655328947-00kfsqtol0j7slnnutpvrmi4p5v7trv9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Blipermesero.bliperMesero"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
