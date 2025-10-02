@@ -1,8 +1,10 @@
 import 'dart:convert';
 
 import 'package:state_extended/state_extended.dart';
+import '../../src2/helpers/https/https.dart';
 import '../controllers/global.dart' as global;
-import '../repository/login_repository.dart';
+
+import '../../src2/config/global/global.dart' as global2;
 
 class SplashScreenController extends StateXController{
 
@@ -13,20 +15,23 @@ class SplashScreenController extends StateXController{
 
   Future<void> init({required context}) async{
     await permisosTodos();
-    await global.initFirebase();
-    login(context);
+    global2.context = context;
+    await global2.initFirebase();
+    login_automatico(context);
   }
-  Future<void> login(context) async{
-    final token = await global.obtenerToken();
-    final respuesta = await login_automatico(deviceToken: token);
-    final jsonData = jsonDecode(respuesta);
-    if(jsonData["success"]){
-      print("login exitoso");
-      global.setUser(userLogin: jsonData["data"]);
-      global.paginas.pagesRoute(page: 1, context: context, deviceToken: token);
+  Future<void> login_automatico(context) async{
+    final token = await global2.obtenerToken();
+    print(token);
+
+    final respuesta = await post(endpoint: "login_automatico",body: {"deviceToken":token});
+
+    if(respuesta.success){
+      global2.setUser(userLogin: respuesta.data);
+      global2.snackBar(mensaje: respuesta.message);
+      global2.routs.homeRoute(context: context);
     }else{
-      print("login fallido");
-      global.paginas.loginRoute(devicetoken: token,context: context);
+      global2.snackBar(mensaje: respuesta.message);
+      global2.routs.loginRoute(devicetoken: token, context: context);
     }
   }
 }

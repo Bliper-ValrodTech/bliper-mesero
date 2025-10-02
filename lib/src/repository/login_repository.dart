@@ -12,7 +12,7 @@ Future<String> login_automatico({required String deviceToken}) async {
     map['device_token'] = deviceToken;
     map['tipo_user'] = "2";
     response = await http.post(
-        Uri.parse('${config.apiBaseUrl}login/mesero_loginAutomatico.php'),
+        Uri.parse('${config.apiBaseUrl}login/login_automatico.php'),
         body: map
     );
     if(response.statusCode == 200){

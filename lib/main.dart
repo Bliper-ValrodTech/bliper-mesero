@@ -1,9 +1,9 @@
 import 'dart:io';
-import 'package:bliper_mesero/src/pages/spash_screen.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'firebase_options.dart';
+import 'src2/features/splash_screen/screens/screens.dart';
 
 class MyHttpOverrides extends HttpOverrides{
   @override
@@ -49,7 +49,6 @@ class MyApp extends StatelessWidget {
           brightness: Brightness.dark,
         ),
       ),
-
       home: SpashScreenWidget(),
     );
   }
