@@ -40,13 +40,14 @@ class LoginController extends StateXController{
       if(respuesta.success){
         print(respuesta.data);
         global.setRestaurant(restauranteModel: respuesta.data);
-        global.routs.homeRoute(context: context);
+        global.routs.navigationRoute(context: context);
       }else{
         global.snackBar(mensaje: respuesta.message);
         errorLogin(mensaje: respuesta.message);
       }
     }else{
       errorLogin(mensaje: respuesta.message);
+      Navigator.pop(context);
     }
   }
 

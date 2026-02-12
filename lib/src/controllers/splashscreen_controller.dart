@@ -28,7 +28,7 @@ class SplashScreenController extends StateXController{
     if(respuesta.success){
       global2.setUser(userLogin: respuesta.data);
       global2.snackBar(mensaje: respuesta.message);
-      global2.routs.homeRoute(context: context);
+      global2.routs.navigationRoute(context: context);
     }else{
       global2.snackBar(mensaje: respuesta.message);
       global2.routs.loginRoute(devicetoken: token, context: context);

@@ -1,7 +1,8 @@
 import 'package:flutter/cupertino.dart';
 
+import '../../features/home/screens/screens.dart';
 import '../../features/login/screens/screens.dart';
-
+import '../../features/navigation/screens/screens.dart';
 
 class Routs{
 
@@ -31,5 +32,8 @@ class Routs{
   }
   void chatRoute({required BuildContext context}){
     //navigate();
+  }
+  void navigationRoute({required BuildContext context}){
+    navigate(paginaRout: NavigationScreen(), context: context);
   }
 }

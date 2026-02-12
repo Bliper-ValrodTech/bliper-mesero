@@ -217,8 +217,5 @@ class _NavegacionWidgetState extends State<NavegacionWidget>{
       widget.currentPage!(page);
     });
   }
-
-
-
 }
 
